@@ -1,2 +1,2 @@
 Bonjour
-Ce fichier est le deuxième fichier crée depuis git avec l'interface bash de git
+Ce fichier est le premier fichier crée depuis git avec l'interface bash de git
